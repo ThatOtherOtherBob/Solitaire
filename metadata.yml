@@ -1,0 +1,10 @@
+title: Solitaire
+description: card game
+author: LBob / TooB
+splash:
+  file: assets/solitaire-image.png
+icon:
+  file: assets/solitaire-icon.png
+version: v1.0.0
+category: game
+url: https://github.com/32blit/Solitaire
